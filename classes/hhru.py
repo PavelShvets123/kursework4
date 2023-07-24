@@ -6,21 +6,21 @@ from abstract import APIInteraction
 from vacancy import Vacancy
 
 
-class Headhunter(APIInteraction):
-    def request(self, name, page=0):
+class HeadHunterAPI(APIInteraction):
+    def request(self, name):
 
-        # params = {
-        #     'text': f'NAME:{name}',  # Текст фильтра. В имени должно быть слово "Аналитик"
-        #     'area': 1,  # Поиск осуществляется по вакансиям города Москва
-        #     'page': page,  # Индекс страницы поиска на HH
-        #     'per_page': 100  # Кол-во вакансий на 1 странице
-        # }
-        get_data = requests.get('https://api.hh.ru/vacancies')  # Посылаем запрос к API # добавить params
-        data = get_data.json()  # Декодируем его ответ, чтобы Кириллица отображалась корректно
+        params = {
+            'text': f'NAME:{name}',
+            'area': 1,
+            'page': 0,
+            'per_page': 100
+        }
+        get_data = requests.get('https://api.hh.ru/vacancies', params)
+        data = get_data.json()
 
         return self.parse(data)
 
-    def parse(self, data) -> list[Vacancy]:  # Почему пайчарм мне предложил такую формулеровку?
+    def parse(self, data) -> list[Vacancy]:
         vacancy_list = []
         for vacancy in data['items']:
             name = vacancy['name']
@@ -32,7 +32,3 @@ class Headhunter(APIInteraction):
             experience = vacancy["snippet"]["requirement"]
             vacancy_list.append(Vacancy(name, url, salary, experience))
             return vacancy_list
-
-
-client = Headhunter()
-print(client.request("python"))

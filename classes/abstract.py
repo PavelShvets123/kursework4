@@ -7,7 +7,7 @@ from vacancy import Vacancy
 
 class APIInteraction(ABC):
     @abstractmethod
-    def request(self, url, params):
+    def request(self, url):
         """
         Создаем метод для получения страницы со списком вакансий.
         """

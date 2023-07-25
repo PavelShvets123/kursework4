@@ -4,13 +4,19 @@ class Vacancy:
         self.title = title
         self.url = url
         self.salary_min = salary_min
-        self.salary = salary_max
+        self.salary_max = salary_max
         self.experience = experience
 
-    def to_dict(self):
-        return {
-            "title": self.title,
-            "url": self.url,
-            "salary": self.salary,
-            "experience": self.experience
-        }
+    def __str__(self):
+        return f"""{self.title}
+{self.url}
+От {self.salary_min} до {self.salary_max}
+{self.experience}"""
+
+    # def to_dict(self):
+    #     return {
+    #         "title": self.title,
+    #         "url": self.url,
+    #         "salary": self.salary,
+    #         "experience": self.experience
+    #     }

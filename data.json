@@ -1,0 +1,772 @@
+[
+    {
+        "name": "Разработчик Python",
+        "url": "https://hh.ru/vacancy/82904137",
+        "salary_min": 100000,
+        "salary_max": 0,
+        "experience": "хорошее знание Python и фреймворков: Flask, Django, FastAPI. - понимание принципов микросервисной архитектуры. - понимание работы веб-сервера. - знание GitFlow. - "
+    },
+    {
+        "name": "Junior Backend developer (Python)",
+        "url": "https://hh.ru/vacancy/83618124",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Знание python. Желание развиваться в сфере backend-разработки. Понимание REST API, базовые знания SQL и NoSQL, умение работать с Git. "
+    },
+    {
+        "name": "Программист Python",
+        "url": "https://hh.ru/vacancy/83761018",
+        "salary_min": 70000,
+        "salary_max": 0,
+        "experience": "Опыт работы с Python3, Django (DRF), SQL, PostgreSQL, REST, WebSocket, FastAPI. - Хорошие знания SQL, опыт работы с одной из..."
+    },
+    {
+        "name": "Python разработчик (Django)",
+        "url": "https://hh.ru/vacancy/83966648",
+        "salary_min": 50000,
+        "salary_max": 90000,
+        "experience": "Основное - желание развиваться, стрессоустойчивость, готовность к плотной работе. Знание Python. Знание Django, DRF. Знание SQL. REST API. Наличие завершенных проектов. "
+    },
+    {
+        "name": "Python разработчик junior",
+        "url": "https://hh.ru/vacancy/83813635",
+        "salary_min": 30000,
+        "salary_max": 60000,
+        "experience": "Знали Python. Работали с MySQL. Работали с Git. Работали с Django. Работали с Linux. Знали ООП. Знали, что такое REST. "
+    },
+    {
+        "name": "Backend разработчик (Python, Junior), удаленно",
+        "url": "https://hh.ru/vacancy/83494438",
+        "salary_min": 60000,
+        "salary_max": 0,
+        "experience": "Опыт коммерческой работы на позиции backend-разработчика от полугода. Знания Python3, SQL и фреймворка Django. Опыт работы с библиотекой..."
+    },
+    {
+        "name": "Python-разработчик (Junior)",
+        "url": "https://hh.ru/vacancy/83551103",
+        "salary_min": 60000,
+        "salary_max": 80000,
+        "experience": "Профильное высшее образование. Знание языка Python. Опыт работы с PostgreSQL. Знание основ работы с Git и Docker. Знание английского языка..."
+    },
+    {
+        "name": "Junior/Middle backend разработчик на Fast API (Python)",
+        "url": "https://hh.ru/vacancy/82841724",
+        "salary_min": 50000,
+        "salary_max": 100000,
+        "experience": "Уверенные знаниями языка и стандартных библиотек Python 3. Умение писать качественный и эффективный код на Python 3. Твердый опыт разработки..."
+    },
+    {
+        "name": "Backend-разработчик Python",
+        "url": "https://hh.ru/vacancy/83644516",
+        "salary_min": 0,
+        "salary_max": 150000,
+        "experience": "Коммерческий опыт программирования на Python от 2 лет. Опыт работы с Django. Опыт работы с облачными сервисами(AWS, Google, Yandex..."
+    },
+    {
+        "name": "Программист Python",
+        "url": "https://hh.ru/vacancy/83221026",
+        "salary_min": 25000,
+        "salary_max": 40000,
+        "experience": "Средний или выше уровень владения Python. Опыт работы с async, aiohttp для создания телеграм ботов. Опыт работы с базами данных..."
+    },
+    {
+        "name": "Python developer",
+        "url": "https://hh.ru/vacancy/82928430",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Коммерческий опыт разработки на Python на фреймворках Aiohttp/ Aioamqp – от 2 лет. Понимание базовых принципов работы API. Отличное понимание ООП. "
+    },
+    {
+        "name": "Junior backend-разработчик на Python",
+        "url": "https://hh.ru/vacancy/83055812",
+        "salary_min": 80000,
+        "salary_max": 120000,
+        "experience": "Требуемые навыки: Опыт работы не менее 6 месяцев. Знание Python. Представление об ООП. Представление о работе с БД, понимание основных..."
+    },
+    {
+        "name": "Python Backend Developer",
+        "url": "https://hh.ru/vacancy/83716383",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Мы ищем опытного Python Backend разработчика с отличными знаниями Django и опытом написания REST API. Требования: Опыт работы с Python..."
+    },
+    {
+        "name": "Strong junior / Middle Python разработчик",
+        "url": "https://hh.ru/vacancy/83953135",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Высшее техническое образование. Опыт разработки на Python (в реальных проектах) от года. Наличие успешно реализованных проектов. SQL, GitHub. "
+    },
+    {
+        "name": "Стажер Back-end разработчика: php, java, python, c#",
+        "url": "https://hh.ru/vacancy/82870266",
+        "salary_min": 15000,
+        "salary_max": 30000,
+        "experience": "Знание одного из языков: php, python, java, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если..."
+    },
+    {
+        "name": "Программист Python (разработка парсеров данных)",
+        "url": "https://hh.ru/vacancy/82371702",
+        "salary_min": 60000,
+        "salary_max": 120000,
+        "experience": "Опыт работы программистом Python от 1 года. Опыт работы с системами контроля версий. Базовые знания HTML, AJAX, HTTP, XML, JSON. "
+    },
+    {
+        "name": "Backend разработчик (Python)",
+        "url": "https://hh.ru/vacancy/83690278",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Опыт работы с FastAPI или Django, Flask. Умения работать с PostgreSQL/MySQL. Опыт работы с многопоточностью, асинхронностью. Знания основных паттернов..."
+    },
+    {
+        "name": "Junior Python Developer",
+        "url": "https://hh.ru/vacancy/82286058",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Обязательно понадобятся: - Опыт работы с данными на Python (чтение данных разных форматов – csv, xlsx, JSON, API, - с последующим преобразованием). - "
+    },
+    {
+        "name": "Программист Python / Python Developer",
+        "url": "https://hh.ru/vacancy/83466756",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Опыт программирования на Python (главное) и других языках программирования (PHP, Ruby, Java, NodeJS - будет бонусом). (желательно) опыт и/или готовность..."
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/84014204",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Уверенное знание Python. Понимание основ работы сети и Linux: TCP/IP, HTTP, DNS, файловая система. Опыт работы с языками, инструментами..."
+    },
+    {
+        "name": "Junior Python developer",
+        "url": "https://hh.ru/vacancy/83116394",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Базовое понимание систем Windows. Опыт работы с Airflow, scrappy, selenium. Базовое понимание систем семейства Unix. Опыт программирования на Python. "
+    },
+    {
+        "name": "Backend-тестировщик-программист (Python)",
+        "url": "https://hh.ru/vacancy/83077285",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Опыт работы тестировщиком от 1 года. Работали со Swagger. Знание Python на уровне Junior для написание тестов. Опыт тестирования REST..."
+    },
+    {
+        "name": "Программист Python",
+        "url": "https://hh.ru/vacancy/83907794",
+        "salary_min": 80000,
+        "salary_max": 120000,
+        "experience": "Опыт программирования на Python от 3 лет. Знание среды разработки Jupyter, PostgreSQL, MySQL, Linux. Опыт работы с API, Pandas, интеграций..."
+    },
+    {
+        "name": "Программист-разработчик Python",
+        "url": "https://hh.ru/vacancy/83988491",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Python3+ от 2-х лет. Понимание принципов ООП, паттернов проектирования, SOLID. Опыт разработки под Windows. Понимание межсетевого взаимодействия..."
+    },
+    {
+        "name": "Python разработчик",
+        "url": "https://hh.ru/vacancy/83936497",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Имеете опыт разработки на Python 3.X. Понимаете механику языка Python и сопутствующих инструментов (pytest, mypy, poetry, flake8). "
+    },
+    {
+        "name": "Junior/Middle Backend Developer (Python)",
+        "url": "https://hh.ru/vacancy/82858718",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "опыт использования веб фреймворков, fastapi (tornado и т.п.), orm (sqlalchemy). - умение работать с реляционными базами данных (postgresql), nosql, (mongodb..."
+    },
+    {
+        "name": "Backend разработчик на Python / web программист в AI платформу, удалённо",
+        "url": "https://hh.ru/vacancy/83819906",
+        "salary_min": 0,
+        "salary_max": 70000,
+        "experience": "Иметь опыт работы с Django, Django DRF, celery. Иметь опыт работы с Docker, Docker-compose. Писать API и связывать другие..."
+    },
+    {
+        "name": "Data-инженер/Python-разработчик (strong junior)",
+        "url": "https://hh.ru/vacancy/82440187",
+        "salary_min": 50000,
+        "salary_max": 80000,
+        "experience": "Знание языка Python на уровне strong junior. Опыт работы с базами данных. Опыт работы с Git. Умение работать в команде. "
+    },
+    {
+        "name": "Python Developer",
+        "url": "https://hh.ru/vacancy/82596915",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "1. Опыт 1-3 года, из которых. — 2 года в целом в коде: другие языки. 2. Опыт (или твердое понимание..."
+    },
+    {
+        "name": "Программист Python",
+        "url": "https://hh.ru/vacancy/83589408",
+        "salary_min": 400000,
+        "salary_max": 0,
+        "experience": "Опыт работы с Python 3.8, asyncio (async/await), веб-фреймворками (aiohttp/fastAPI/flask/Django), Aiogram (фреймворк для разработки телеграм..."
+    },
+    {
+        "name": "Remote Python Developer",
+        "url": "https://hh.ru/vacancy/82791380",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Опыт работы с Python и Django от 2 лет (Python 3 приветствуется). Знание баз данных SQL и NoSQL. "
+    },
+    {
+        "name": "Стажер в отдел R&D (Python)",
+        "url": "https://hh.ru/vacancy/83301229",
+        "salary_min": 30000,
+        "salary_max": 60000,
+        "experience": "Средний уровень знаний Python. - Понимание работы HTTP запросов. - Интерес к разработке на Typescript + React. - Хорошее знание английского. - "
+    },
+    {
+        "name": "Разработчик Python",
+        "url": "https://hh.ru/vacancy/83703081",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Python 2/3 на хорошем уровне, C/C++/Java базовые знания или C/C++/Java на хорошем уровне Pyton 2..."
+    },
+    {
+        "name": "Python/Golang разработчик",
+        "url": "https://hh.ru/vacancy/84012626",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Есть и другие проекты, где может потребоваться знание или желание прокачаться в ML и придумывании нестандартных алгоритмов. Основной технологический стек. "
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/83621909",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Владение Python3 на высоком уровне, достаточном для промышленного программирования (высоконагруженные асинхронные, много[поточные/процессные] приложения). Владение на минимальном уровне..."
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/80122527",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Можешь написать SQL запрос и знаешь как его оптимизировать. Работал c web-фреймворками (Django, FastAPI, Flask). Знаешь и использовал Ansible..."
+    },
+    {
+        "name": "Middle Python developer",
+        "url": "https://hh.ru/vacancy/83300859",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Предлагаем опытным разработчикам присоединиться к нашей команде. От вас только продемонстрировать уверенное владение Python, Django и DRF от 2-х..."
+    },
+    {
+        "name": "Python Backend Developer",
+        "url": "https://hh.ru/vacancy/83828013",
+        "salary_min": 200000,
+        "salary_max": 300000,
+        "experience": "Опыт от 2х лет. - Асинхронное программирование (asyncio, aiohttp). - Создание безопасных web приложений (знание уязвимостей и способов защиты). "
+    },
+    {
+        "name": "Data Scientist (Python)",
+        "url": "https://hh.ru/vacancy/82644423",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Базовые знания Python: кандидат должен быть знаком с основными конструкциями языка, структурами данных и уметь писать чистый и эффективный код. "
+    },
+    {
+        "name": "Аналитик баз данных (Python/SQL)",
+        "url": "https://hh.ru/vacancy/83524185",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Понимание структуры сайта, базовые знания HTML. Навыки работы в Jupyter Notebook. Базовый уровень SQL, навыки написания запросов к БД. "
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/83921162",
+        "salary_min": 0,
+        "salary_max": 450000,
+        "experience": "От 3 лет коммерческого опыта на Python. Наличие высшего технического образования."
+    },
+    {
+        "name": "Python developer",
+        "url": "https://hh.ru/vacancy/83453900",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Имеете опыт работы с Python более 2 лет. Обладаете знаниями классических алгоритмов и структур данных. Имеете опыт работы с Django..."
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/84018142",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Уверенное владение Python 3. Знание и опыт использования современных архитектурных подходов к разработке backend-приложений (модели параллелизма, асинхронное программирование, подходы..."
+    },
+    {
+        "name": "Python developer (проект NtechMed)",
+        "url": "https://hh.ru/vacancy/83033070",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Опыт работы с Python3 от 2-х лет. Знание ООП, алгоритмов и структур данных. Хорошее знание PostgreSQL (+ SQLAlchemy). "
+    },
+    {
+        "name": "QA Engineer (Manual+Auto Python)",
+        "url": "https://hh.ru/vacancy/83426431",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Иметь коммерческий опыт ручного UI/API тестирования web-приложений от 1 года (devtools, postman). Понимать, как работает протокол HTTP, какие..."
+    },
+    {
+        "name": "Backend разработчик (Python)",
+        "url": "https://hh.ru/vacancy/82617424",
+        "salary_min": 100000,
+        "salary_max": 0,
+        "experience": "Отличное знание Python 3 и SQL, библиотек для разработки API и работы с данными (FastAPI, Pandas, Numpy, SQL Alchemy, asyncio). "
+    },
+    {
+        "name": "Backend dev / Бэкенд разработчик / Python dev",
+        "url": "https://hh.ru/vacancy/83839694",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "5+ - ваш общий опыт в коммерческой разработке. 2+ опыта в руководстве/менторинге. Работали с Django 3+, Redis..."
+    },
+    {
+        "name": "Разработчик Python(RuPost)",
+        "url": "https://hh.ru/vacancy/43558725",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Отличное знание Python, Flask. Знание и опыт работы с HTTP/HTTPS. Опыт работы с JSON, XML. Для фокуса на web..."
+    },
+    {
+        "name": "Python разработчик",
+        "url": "https://hh.ru/vacancy/82975815",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Опыт разработки на Python. Python 3.10+. Базовое знание git. Понимание принципов асинхронного и параллельного выполнение кода. "
+    },
+    {
+        "name": "Middle Python Developer (Remote)",
+        "url": "https://hh.ru/vacancy/83756799",
+        "salary_min": 180000,
+        "salary_max": 250000,
+        "experience": "Опыт коммерческой разработки Python (2.7/3) – строго от 3 лет обязательно. Опыт с Django - от 2 лет обязательно. "
+    },
+    {
+        "name": "Python WMS Developer",
+        "url": "https://hh.ru/vacancy/83965854",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Linux-разработка, умение эффективно работать в среде Linux. Опыт работы разработчиком более 5 лет. Опыт декомпозиции и оценки времени выполнения..."
+    },
+    {
+        "name": "Backend Python Developer (Django)",
+        "url": "https://hh.ru/vacancy/83458412",
+        "salary_min": 160000,
+        "salary_max": 0,
+        "experience": "Опыт работы с Postgres.SQL. Знание способов оптимизации запросов через ORM. Опыт работы с celery, redis. Знание английского языка на уровне..."
+    },
+    {
+        "name": "Python Developer",
+        "url": "https://hh.ru/vacancy/83617001",
+        "salary_min": 120000,
+        "salary_max": 160000,
+        "experience": "Знание принципов ООП и умение применять их на практике. Понимание принципов REST архитектуры. Уверенное владение Python 3. Опыт коммерческой разработки..."
+    },
+    {
+        "name": "Разработчик Python",
+        "url": "https://hh.ru/vacancy/83362882",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Понимание микросервисных асинхронных и реактивных взаимодействий, разных подходов к координации сервисов, их децентрализации и масштабированию. Хорошее понимание ООП, применение паттернов..."
+    },
+    {
+        "name": "Разработчик Python (BigData)",
+        "url": "https://hh.ru/vacancy/83741458",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Какие знания и навыки для нас важны: Знание принципов ООП. Знание Python. Опыт разработки веб-приложений/сервисов (Python/Java/JavaScript). "
+    },
+    {
+        "name": "Python Middle Developer (FastAPI)",
+        "url": "https://hh.ru/vacancy/83530986",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Опыт работы с Python от 2х лет. Понимание DjangoORM и миграций. Опыт разработки API, работы с очередями и базами..."
+    },
+    {
+        "name": "Программист Python (Junior+/Middle)",
+        "url": "https://hh.ru/vacancy/82987200",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Хорошая алгоритмическая подготовка. Техническое образование или эквивалентный практический опыт. Знание Python 3.5+, опыт практического применения от года. "
+    },
+    {
+        "name": "Python Developer",
+        "url": "https://hh.ru/vacancy/82847795",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Python 3.6+. Flask. Знание реляционных БД: SQLite / PostgreSQL. Опыт работы с ORM SQLalchemy, миграции Alembic. Опыт работы с..."
+    },
+    {
+        "name": "Python middle",
+        "url": "https://hh.ru/vacancy/83800034",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Важно понимание принципов ООП (объектно-ориентированного программирования) в Python. - Django фреймворк, знать его основные компоненты, такие как модели, представления (views..."
+    },
+    {
+        "name": "Стажер разработчик - Python, Группа автоматизированных систем измерения ОВХ, Торговые операции",
+        "url": "https://hh.ru/vacancy/83403010",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Навыки программирования на Python 3. Знание алгоритмов и структур данных, ООП разработки. Знание git и docker. Знание основ компьютерного зрения. "
+    },
+    {
+        "name": "Python Backend Developer",
+        "url": "https://hh.ru/vacancy/83828868",
+        "salary_min": 0,
+        "salary_max": 250000,
+        "experience": "Наличие опыта разработки на Python от от 3-х лет. Опыт работы с asyncio в частности (FastAPI, AIOHTTP). "
+    },
+    {
+        "name": "Программист Python",
+        "url": "https://hh.ru/vacancy/83439263",
+        "salary_min": 150000,
+        "salary_max": 250000,
+        "experience": "Понимание специфики интернет-данных. Опыт коммерческой разработки на Python 3.8+ с использованием асинхронного программирования (asyncio, async, await). "
+    },
+    {
+        "name": "Python developer [Test Automation Platform]",
+        "url": "https://hh.ru/vacancy/80434796",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Знание Python на высоком уровне. Навыки работы с БД (PostgreSQL) и написание запросов средней сложности. Опыт работы с Django, k..."
+    },
+    {
+        "name": "Python разработчик",
+        "url": "https://hh.ru/vacancy/83735849",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Опыт работы в enterprise разработке от 1 года. Python 3. Flask. Понимание и умение применять принципы ООП, SOLID, паттерны разработки. "
+    },
+    {
+        "name": "Программист Python",
+        "url": "https://hh.ru/vacancy/83532503",
+        "salary_min": 130000,
+        "salary_max": 0,
+        "experience": "Опыт коммерческой python3 разработки от 3 лет. Опытный пользователь linux (понимание функциональных различий/возможностей в версиях ядра и применение..."
+    },
+    {
+        "name": "Разработчик Python/ETL",
+        "url": "https://hh.ru/vacancy/83836011",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Какие знания и навыки для нас важны: Опыт разработки приложений по работе с данными на Python от двух лет. "
+    },
+    {
+        "name": "Backend developer (python)",
+        "url": "https://hh.ru/vacancy/83207201",
+        "salary_min": 0,
+        "salary_max": 230000,
+        "experience": "Опыт работы с Python 3.x. Опыт работы с одним из асинхронных фреймворков: Aiohttp, Sanic, FastApi. Опыт работы с базами..."
+    },
+    {
+        "name": "Middle Python Developer",
+        "url": "https://hh.ru/vacancy/83756794",
+        "salary_min": 150000,
+        "salary_max": 0,
+        "experience": "Важен опыт с любым фреймворком кроме django. Знание современного питона (у нас Python 3.11). Понимание общих принципов работы с..."
+    },
+    {
+        "name": "Разработчик Python",
+        "url": "https://hh.ru/vacancy/83226584",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Понимание современных веб-технологий – серверных и клиентских. Опыт работы с Django, Flask или другими фреймворками. Знание SQL и реляционных баз..."
+    },
+    {
+        "name": "Программист Python (Middle)",
+        "url": "https://hh.ru/vacancy/83225173",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Навыки по формированию доменной модели бизнес-процессов (умение разбить бизнес-процесс на модели данных и связать их отношениями). "
+    },
+    {
+        "name": "Python Developer",
+        "url": "https://hh.ru/vacancy/83541113",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Хорошее знание Python3. От 1 года опыта коммерческой разработки. Опыт работы с Linux и embedded системами. Опыт отладки и..."
+    },
+    {
+        "name": "Python Developer",
+        "url": "https://hh.ru/vacancy/81905757",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Опыт коммерческой разработки на Python от 2-х лет. Опыт разработки сетевых клиентских приложений (взаимодействие с сервером по REST API..."
+    },
+    {
+        "name": "Manual & Auto QA-инженер (Python)",
+        "url": "https://hh.ru/vacancy/83350783",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Опыт проведения функционального, регрессионного, интеграционного, кроссбраузерного тестирования, тестирования API веб-приложений(B2C). Знание общих принципов разработки ПО и..."
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/81723177",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Знание построения архитектуры ПО, паттернов и принципов написания и тестирования кода. Уверенные знания асинхронного python3 и основной экосистемы. "
+    },
+    {
+        "name": "Python разработчик",
+        "url": "https://hh.ru/vacancy/83927580",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Опыт работы с Python 3.8, asyncio (async/await), веб-фреймоворками (aiohttp/fastAPI/flask/Django, Django RF), ORM (peewee, SQLAlchemy..."
+    },
+    {
+        "name": "Python-разработчик (команда VK Музыка)",
+        "url": "https://hh.ru/vacancy/83944753",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Быстрый прирост аудитории. Python, Django, Celery, Postgres, Clickhouse, Docker / Gitlab CI / Ansible. Умение писать чистый и понятный код, а также..."
+    },
+    {
+        "name": "QA Automation Engineer (Python)",
+        "url": "https://hh.ru/vacancy/83055875",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Имел опыт работы в сфере тестирования от двух лет. Знал теоретических основ тестирования, практики и инструменты. Умел грамотно описывать тестовую..."
+    },
+    {
+        "name": "Python Backend Developer",
+        "url": "https://hh.ru/vacancy/83434849",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Отличное знание Python 3 и опыт промышленной разработки на Python от трех лет. Опыт многопоточного и асинхронного программирования. "
+    },
+    {
+        "name": "Junior Python ML инженер – разработчик",
+        "url": "https://hh.ru/vacancy/83429643",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Знания computer science: алгоритмы, структуры данных. Опыт работы с FastAPI или Flask. Знание аналитических пакетов Python: numpy, pandas, scikit-learn..."
+    },
+    {
+        "name": "Python Developer (Cars)",
+        "url": "https://hh.ru/vacancy/84016023",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Пишешь на Python больше 2-х лет. Работаешь с FastAPI, Django от 2-х лет. Знаешь SQL базово. "
+    },
+    {
+        "name": "Разработчик Python (PostgreSQL)",
+        "url": "https://hh.ru/vacancy/83226812",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Обязательно. Опыт программирования Python. Понимание REST. Понимание процессов CI/CD. Знание и опыт SQL (желательно в PostgreSQL). Знание Linux на..."
+    },
+    {
+        "name": "Разработчик Python",
+        "url": "https://hh.ru/vacancy/80879635",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Понимание принципов ООП. REST. Python (будет плюсом опыт работы с Django). SQL (желательно postgres). Понимание процессов CI/CD. "
+    },
+    {
+        "name": "Software Developer Python",
+        "url": "https://hh.ru/vacancy/82595583",
+        "salary_min": 80000,
+        "salary_max": 200000,
+        "experience": "Уверенное владение Python 3 (FastAPI/ Django), знание слабых и сильных сторон. Коммерческий опыт разработки от 2-х лет. "
+    },
+    {
+        "name": "Middle/Senior Python Developer (Django)",
+        "url": "https://hh.ru/vacancy/81585112",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Способность нести ответственность за сегмент системы (группу сервисов). Опыт и желание писать код на Python. Опыт разработки веб-сервисов с..."
+    },
+    {
+        "name": "C#/Python developer junior / middle",
+        "url": "https://hh.ru/vacancy/82260854",
+        "salary_min": 100000,
+        "salary_max": 250000,
+        "experience": "Опыт веб разработки с помощью C# и SQL. Обязательный опыт работы от 1 года в продуктовых компаниях. Чистый код, шаблоны..."
+    },
+    {
+        "name": "Python Developer Middle (Backend), удаленно",
+        "url": "https://hh.ru/vacancy/83829617",
+        "salary_min": 160000,
+        "salary_max": 240000,
+        "experience": "Уверенные знания языка программирования Python. Владение многопоточным multiprocessing и асинхронными подходами asyncio, aiohttp, concurrent.futures. Опыт применения Mongo, docker, nginx, Redis..."
+    },
+    {
+        "name": "Программист Python",
+        "url": "https://hh.ru/vacancy/83967739",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Опыт промышленной разработки на Python от 2-х лет (уровень не ниже middle). * Знание/опыт работы с git, docker. * "
+    },
+    {
+        "name": "Teamlead Python Backend (Remote)",
+        "url": "https://hh.ru/vacancy/81884227",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Опыт управления командой минимум из 2 человек - минимум 0.5 года. Опыт промышленной разработки на Python от 2 лет. "
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/82532098",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Опыт работы с реляционными базами данных. Используем мы их много и, поэтому мы ожидаем что вы знакомы с транзакциями, блокировками..."
+    },
+    {
+        "name": "Разработчик Python middle",
+        "url": "https://hh.ru/vacancy/83460735",
+        "salary_min": 120000,
+        "salary_max": 180000,
+        "experience": "Умение программировать на Python (умение решать задачи уровня easy/medium на leetcode, понимание ключевых концепций параллельного программирования). Умение пользоваться git..."
+    },
+    {
+        "name": "Middle Python разработчик",
+        "url": "https://hh.ru/vacancy/83970855",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Опыт командной разработки на Python не менее 3-х лет. Хорошее знание какого-либо из популярных Python-фреймворков (Django, Flask..."
+    },
+    {
+        "name": "Инженер по автоматизации на Python",
+        "url": "https://hh.ru/vacancy/83771309",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Уверенное использование Linux. Уверенное использование Git. Понимание парадигмы ООП. Опыт разработки инструментов и сервисов на Python3.9 и выше. "
+    },
+    {
+        "name": "Разработчик Python Flask/Django",
+        "url": "https://hh.ru/vacancy/83836028",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Какие знания и навыки для нас важны: Опыт реализации backend компонентов web приложений с использованием python от трех лет. "
+    },
+    {
+        "name": "Аналитик SQL,Python",
+        "url": "https://hh.ru/vacancy/83136580",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Владение методологией и знание процедуры (SQL) расчета показателей Качества Данных. Аудит процессов и данных в рамках заявленных бизнес-проблем (в..."
+    },
+    {
+        "name": "Программист Python (парсинг данных)",
+        "url": "https://hh.ru/vacancy/83053963",
+        "salary_min": 0,
+        "salary_max": 40000,
+        "experience": "Уметь в парсинг на очень хорошем уровне (если вы обычно используете BS то скорее всего мы ищем не вас). "
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/82445207",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Владение Python3 на высоком уровне, достаточном для промышленного программирования (высоконагруженные асинхронные, много[поточные/процессные] приложения). Владение на минимальном уровне..."
+    },
+    {
+        "name": "Python - разработчик (Django)",
+        "url": "https://hh.ru/vacancy/83679185",
+        "salary_min": 0,
+        "salary_max": 200000,
+        "experience": "Опыт работы с фреймворком Django и языком Python 3. - Опыт работы программистом от 3х лет (только реальный опыт в..."
+    },
+    {
+        "name": "Программист Python",
+        "url": "https://hh.ru/vacancy/82862837",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Опыт разработки промышленных приложений на python от 1-2 года. Хорошая алгоритмическая подготовка. Опыт разработки веб-сервисов (REST, HTTP). "
+    },
+    {
+        "name": "Разработчик Python",
+        "url": "https://hh.ru/vacancy/83330313",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Опыт работы коммерческой разработки от 2,5 лет. Опыт применения в работе классических алгоритмов. Знание структур данных. Понимание теории реляционных..."
+    },
+    {
+        "name": "Python разработчик",
+        "url": "https://hh.ru/vacancy/82865351",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Опыт разработки коммерческого ПО от 2 лет на Python. Уверенное владение простыми конструкциями SQL (запросы, отладка, индексы). Опыт работы с..."
+    },
+    {
+        "name": "Full stack python developer",
+        "url": "https://spb.superjob.ru/vakansii/full-stack-python-developer-46891033.html",
+        "salary_min": 200000,
+        "salary_max": 0,
+        "experience": "ФГБУ \"НМИЦ онкологии им. Н.Н. Петрова\" Минздрава России является одним из ведущих учреждений специализирующихся на оказание медицинской помощи по профилю \"онкология\". Учреждение имеет обширную базу исследований: лучевых методов диагностики, морфологии, а также большое количество медицинских данных пациентов с онкологическими заболеваниями. В настоящее время организация ищет Full Stack разработчика на Python для работы с алгоритмами машинного обучения и искусственного интеллекта\n Должностные обязанности:\n * Разработка веб-интерфейса для разметки данных\n * Консультирование / участие в автоматизации источников данных для ML моделей совместно с ML Engineer/Data Engineer \nТребования:\n - Высшее техническое образование в сфере компьютерных наук, прикладной математики или статистики (желательно)\n- 2+ года опыта с React.js и Python.\n- Знание фреймворков Django, Flask или Streamlit (желательно)\n- Контейнеризация: Docker, OpenShift;\n- Опыт с базами данных: MongoDB, PostgreSQL\n- Инструменты DevOps (MLOps): Git, Jira, Bitbucket, Nexus, Jenkins\n- Технический английский статьи, документация\n- Понимание жизненного цикла моделей (CRISP-DM) (желательно)\n- Знание основных алгоритмов и методов машинного обучение и анализа данных: линейные модели, ансамблевые методы, анализ и прогнозирование временных рядов (задачи классического Машинного Обучения) (желательно)\n- Знание фреймворков, библиотек машинного обучения: Scikit-learn, XGBoost, CatBoost, TensorFlow, Pytorch, Hugging Face transformers (желательно) \nУсловия:\n* Трудоустройство в соответствии с ТК РФ\n* Белая зарплата\n* Возможность разрабатывать продукты востребованные для системы здравоохранения, которые позволяют повысить качество оказания медицинской помощи по профилю \"онкология\"\n* Возможность участвовать с презентацией проектов на профильных конференциях"
+    },
+    {
+        "name": "Сетевой Инженер\\Администратор сети ПД",
+        "url": "https://spb.superjob.ru/vakansii/setevoj-inzhener-46941423.html",
+        "salary_min": 70000,
+        "salary_max": 100000,
+        "experience": "Обязанности: \n• Общение с клиентом, решение заявок клиентов по вопросу работы Интернет и каналов.\n \n• Обеспечение своевременной диагностики и устранения неисправностей в сети.\n \n• Поддержка актуальности схемы сети, настроек на сетевом оборудовании.\n \n• Администрирование linux серверов.\n \n• Мониторинг состояния и настройка сетевого оборудования, UPS (Cisco, D-Link, Huawei, Mikrotik, EATON, APC).\n \nТребования: \n• Высшее техническое образование\n \n• Уверенное знание компьютерных сетей: сети ethernet, Vlan, QinQ, L3, модели ISO/OSI (знание консоли cisco будет плюсом\n \n• Уверенное знание Linux и его сервисов (Bind, Apache и так далее)\n \n• Знание средств мониторинга сети и серверов на основе Linux, cacti\n \n• Базовое программирование на bash, python, PHP\n \n• Английский язык (технический)\n \nУсловия: \n• Работа в офисе, 5/2 с 8:00 до 16:30\n \n• \nОт 70000 рублей на руки, по результатам собеседования.\n \n• Срочный договор: 3 мес. испытательный срок, далее бессрочный договор.\n \n• ДМС после испытательный срока"
+    },
+    {
+        "name": "Системный администратор",
+        "url": "https://www.superjob.ru/vakansii/sistemnyj-administrator-38671598.html",
+        "salary_min": 120000,
+        "salary_max": 120000,
+        "experience": "Требования:\n\nНаши ожидания:\n- Вы знаете что такое кластер виртуализации Proxmox (kvm) и понимаете, как он работает. \n- Вы уверенно знаете, как администрировать операционные системы Linux (debian, CentOS, Windows)\n- Вы осознаете принципы работы современной сетевой инфраструктуры и стека TCP/IP, принципы сетевого взаимодействия систем, знаете, что такое Firewall, NAT и прочие странные слова, зачем нужны VLAN и как маршрутизировать трафик средствами OPNsense и Mikrotik. А самое главное зачем и куда!!\n- Вы знаете как настроить отправку почтовых голубей через сервер Zimbra\n- Вы знаете что такое Zabbix и сможете настроить мониторинг всего чего угодно. \n- Вы знаете для чего нужно серверное железо и что куда воткнуть, что такое RAID (hardware, software). \n- Вы знаете что такое AD, DNS, DHCP, как работают и настраиваются групповые политики. \n- Вы знаете что такое СХД (Qnap, Windows SMB) и умеете настраивать и администрировать. \n- Вы стремитесь автоматизировать рутинные IT процессы, поэтому знаете, как это сделать. \n- Вы знаете как работать с IP телефонией (Asterisk), как правильно раскидать звонки и сделать красивое голосовое приветствие (сложный IVR). \n- Вы знаете как работать с пользователями и пользовательскими ОС. У Вас крайне высокий уровень стрессоустойчивости. \n- Вы понимаете, что выполнение поручений руководителя — это крайне важно. \nБудет огромным плюсом если Вы:\n- Умеете работать с БД Postgresql, MySQL\n- Знаете, как писать скрипты на bash, python, php (желательно PowerShell)\n- Знаете, что такое СКУД и IP видеонаблюдение и умеете с этим работать. \n- Умеете самостоятельно администрировать часть инфраструктуры и отдельные проекты. \n- Знаете как улучшить показатели производительности и отказоустойчивости сервисов в непосредственной зоне ответственности, предложить варианты оптимизации инфраструктуры. \n- Знаете как осуществить мониторинг сервисов, выявить проблемные места, устранить неисправности и задокументировать проблему. Оперативное реагировать на оповещения и сигналы тревоги. Эскалация проблем. \n- Понимаете, что рабочий процесс может затянуться и придется задержаться на работе. \n\nТребования:\n- Высшее образование.\n- Коммуникабельность, доброжелательность.\n- Ответственность, стрессоустойчивость, способность быстро усваивать новую информацию.\n- Умение работать в режиме многозадачности.\n- Грамотная речь.\n\nУсловия\n - Работа в крупной медицинской, динамично развивающейся Компании.\n- Строгое соблюдение Трудового законодательства, своевременная и в полном объеме выплата заработной платы, премии, скидки на медицинские услуги , оказываемые в нашей организации.\n- Современное медицинское оборудование, комфортные условия труда.\n- Обучение и развитие в Компании.\n- График работы: гибкий с 8-00 до 20-00 с плавающими выходными днями.\n- Недалеко от метро Нагорная, Профсоюзная, Тульская, Нижние Котлы.\n- Будем рады видеть Вас в нашем дружном коллективе!!!"
+    },
+    {
+        "name": "Младший научный сотрудник",
+        "url": "https://gatchina.superjob.ru/vakansii/mladshij-nauchnyj-sotrudnik-45630898.html",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Обязанности:\n• Младший научный сотрудник в лабораторию физики и техники ускорителей. Проведение научных исследований, эксперименты, наблюдения, измерения, составлять их описание и формирует выводы. Владение компьютером Matlab, Origin, Python. \nТребования:\n• Образование - высшее специальное. \n• Без мед.противопоказаний \nУсловия:\n• доплата за вредные условие труда, талоны на питание, льготное пенсионное обеспечение"
+    },
+    {
+        "name": "Аналитик",
+        "url": "https://dolgoprudniy.superjob.ru/vakansii/analitik-45733204.html",
+        "salary_min": 150000,
+        "salary_max": 0,
+        "experience": "Перечень задач:\n• Организация доступности информации для оперативного/тактического/стратегического управления. Проектирование и разработка витрин данных\n• Разработка аналитической отчетности.\n• Разработка дашбордов для оперативного и стратегического управления.\nУправленческие компетенции:\n• Желательно:\n• Опыт управление проектом/ управление продуктом в областях:\n• Управленческая отчетность\n• Учетные системы\n• Витрины данных\n• BI системы\nТехнические компетенции:\n• BI инструменты и инструменты подготовки данных\n• Python/Jupiter Notebook\n• Apache Airflow\n• Google Sheet + Apps Script\n• Excel\n• Системы для управления связками между сервисами (например N8N)\n• Базы данных\n• Математика на здоровом уровне\n• Эстетический вкус в визуализация и презентации данных\n• Способность задавать вопросы, структурировать и систематизировать.\nУсловия:\n\n• График работы с понедельника - по пятницу, с 8:00 - 17:00 (09:00 до 18:00)\n• Соблюдение трудового законодательства (официальное оформление с первого рабочего дня, \"белая\" заработная плата, оплачиваемые отпуска и больничные);\n• Стабильный рост заработной платы.\n• Корпоративные подарки от Компании на рождение ребенка, на 23 февраля. Новогодние подарки детям сотрудников.\n• Корпоративные скидки на нашу продукцию."
+    },
+    {
+        "name": "Педагог дополнительного образования (Лицей Академии Яндекса)",
+        "url": "https://www.superjob.ru/vakansii/pedagog-dopolnitelnogo-obrazovaniya-46528737.html",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Обязанности:\n• Осуществляет разнообразную развивающую деятельность обучающихся (воспитанников) в области дополнительного образования.\n• Комплектует состав кружка, секции, студии, клубного объединения и других форм внеурочной работы с обучающимися и принимает меры по его сохранению в течение срока их работы.\n• Участвует в разработке и реализации образовательных программ, несет ответственность за качество их выполнения, жизнь и здоровье обучающихся.\n• Составляет планы и программы занятий, обеспечивает их выполнение.\n• Выявляет творческие способности обучающихся, способствует развитию их интересов и склонностей.\n• Организует участие обучающихся в массовых мероприятиях.\n• Оказывает консультативную помощь родителям (лицам, их заменяющим), а также педагогическим работникам в пределах своей компетенции.\n• Обеспечивает при проведении занятий соблюдение правил охраны труда и санитарно-гигиенических норм.\n• Участвует в деятельности методического объединения, самоуправлении учреждения.\n• Систематически повышает свою профессиональную квалификацию.\nТребования:\n• В Лицей Академии Яндекса на площадку ГБОУ Школа 1210 (2023/2024 учебный год!) требуется педагог дополнительного образования по программе \"Учим программировать на Python\". \n• Соискатель должен пройти отбор в преподаватели Лицея Академии Яндекса. \n• Наличие справки об отсутствии судимости, справки об административных нарушениях за употребление наркотических средств и психотропных веществ.\nУсловия:\n• Занятия в группе во второй половине дня, два раза в неделю по 2 часа. \n\n\nВНИМАНИЕ: резюме кандидатов, которые не соответствуют требованиям, не рассматриваются.\nПросьба в сопроводительном письме указывать наличие пройденного отбора в преподаватели Лицея Академии Яндекса."
+    },
+    {
+        "name": "Бизнес-аналитик розничного бизнеса (Banking)",
+        "url": "https://www.superjob.ru/vakansii/biznes-analitik-roznichnogo-biznesa-46901928.html",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Обязанности:\n• Бизнес-планирование по основным направлениям розничного банкинга;\n• Аналитическая поддержка продуктовых, канальных и сегментных подразделений;\n• Аналитика клиентской базы (кластеризация, паттерны поведения и склонности);\n• Проверка гипотез и A/B тестирование;\n• Регулярные аналитические исследования (поиск потенциалов, точек роста, неэффективностей);\nТребования:\n• Опыт работы в аналитике от 1 года;\n• Профильное образование (экономическое или техническое);\n• Знание методов математической статистики;\n• Знание SQL на уровне написания сложных запросов;\n• Знание языка Python (Spark, Pandas и основы ML) будут преимуществом;\n• Образование: Экономика, финансы, математика;\nУсловия:\n• Трудоустройство согласно Законодательству;\n• Конкурентная заработная плата;\n• Профессиональное обучение и развитие;\n• Добровольное медицинское страхование, льготные условия кредитования;\n• Корпоративная пенсионная программа, материальная помощь;\n• Спортивная жизнь и корпоративные мероприятия;\n• Возможность построить карьеру в ведущем банке России."
+    },
+    {
+        "name": "Системный инженер SOC (ELK)",
+        "url": "https://www.superjob.ru/vakansii/sistemnyj-inzhener-soc-46215550.html",
+        "salary_min": 160000,
+        "salary_max": 280000,
+        "experience": "Обязанности:\n• Администрирование и развитие системы мониторинга центра на основе ELK стека;\n• Интеграция средств защиты информации различных вендоров с ELK, работа с плагинами, dashboard, визуализацией, агрегацией, конфигураций pipeline;\n• Обеспечение отказоустойчивости и непрерывной работы ELK стека и связанных сервисов.\n• Разработка предложений по интеграции новых сервисов и оптимизации работы существующих;\n• Внешняя и внутренняя поддержка ELK стека;\n• Разработка коннекторов к СЗИ.\nОбязательные требования:\n• Профильное образование или профессиональная переподготовка;\n• Опыт администрирования кластера elasticsearch, введения в строй отказоустойчивого кластера, бекапирования и восстановления;\n• Опыт администрирования и работа с ОС Linux, докерами и оркестраторами;\n• Опыт работы с СУБД, системами мониторинга;\n• Знание практических принципов информационной безопасности;\n• Опыт написания скриптов автоматизации на Python, Bash для задач по администрированию ИТ-инфраструктуры.\nБудет преимуществом:\n• Опыт работы с различными СЗИ;\n• Опыт построения CI/CD инфраструктуры;\n• Опыт администрирования ИТ-инфраструктуры.\nУсловия:\n• Оформление по ТК РФ\n• Полная занятость\n• Возможность профессионального и карьерного роста\n• Заработная плата по результатам собеседования\n• Корпоративный транспорт до метро Южная"
+    },
+    {
+        "name": "Программист Web, php, Python",
+        "url": "https://samara.superjob.ru/vakansii/programmist-web-46816401.html",
+        "salary_min": 50000,
+        "salary_max": 70000,
+        "experience": "Условия:\n\n• График работы – 5/2.\n• Официальное трудоустройство.\n• Возможность профессионального и карьерного роста.\nТребования:\n\n• Знание и понимание принципов работы OS Linux.\n• Обязательный опыт работы с FastAPI, так как большая часть работы с ним, меньше с Django и DRF.\n• Знание Python3, SQLAlchemy, Nginx, Docker, PostgreSQL, Git.\nОбязанности:\n\n• Разработка мобильных Web приложений.\n• Необходимо базово настраивать VPS с Docker и Nginx."
+    },
+    {
+        "name": "Программист Linux",
+        "url": "https://www.superjob.ru/vakansii/programmist-linux-45695529.html",
+        "salary_min": 100000,
+        "salary_max": 500000,
+        "experience": "Требования:\n• Знание TCP/IP;\n• Умение работать с системами контроля версий;\n• Желательно: опыт написания переносимого и безопасного кода;\n• Желательно: опыт написания кода ядра;\n• Желательно: понимание архитектуры современных ОС.\n• Хорошее знание C;\n• Хороший опыт работы в Unix системах, знание основных утилит командной строки, средств отладки.\n• Представление о системах контроля версий git (или svn).\n• Опыт отладки в gdb.\n• Представление об утилите make и мейкфайлах.\nЖелательные знания:\n• Знание C++, lua, Go lang, qt.\n• Знание хотя бы одного из скриптовых языков: perl, python, lua.\n• Представление об autoconf, automake.\n• Представление об утилите и/или библиотеке openssl.\n• Базовые представления о криптографии: симметричные и асимметричные ключи, сертификаты, шифрование, электронная подпись.\n• Большим плюсом будет наличие представления о формате ASN.1.\nУсловия:\n• Зарплата обсуждается в зависимости от опыта работы, уровня квалификации и соответствия требованиям вакансии;\n• Возможность профессионального и карьерного роста; \n• Оформление по ТК РФ (трудовой договор, трудовая книжка); \n• Расположение офиса: между м. ул. 1905 г. и м. Беговая (с 8-00 до 20-30 автобус компании по расписанию возит сотрудников к / от метро)."
+    }
+]

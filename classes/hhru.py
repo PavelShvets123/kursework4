@@ -31,10 +31,10 @@ class HeadHunterAPI(APIInteraction):
                 salary_max = vacancy["salary"]["to"] if vacancy["salary"]["to"] else 0
             experience = vacancy["snippet"]["requirement"]
             vacancy_list.append({
-                "name": {name},
-                "url": {url},
-                "salary_min": {salary_min},
-                "salary_max": {salary_max},
-                "experience": {experience},
+                "name": name,
+                "url": url,
+                "salary_min": salary_min,
+                "salary_max": salary_max,
+                "experience": experience,
             })
-            return vacancy_list
+        return vacancy_list

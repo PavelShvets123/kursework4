@@ -6,7 +6,7 @@ hh_api = HeadHunterAPI()
 sj_api = SuperJobAPI()
 
 # Получение вакансий с разных платформ
-#keyword = input("Введите поисковый запрос")
+# keyword = input("Введите поисковый запрос")
 vacancies = hh_api.request("Python")
 sj_vacancies = sj_api.request("Python")
 vacancies.extend(sj_vacancies)
@@ -17,7 +17,3 @@ all_vacancies = js.read_file()
 for vacancies in all_vacancies:
     print(vacancies)
     print("-" * 100)
-
-
-
-

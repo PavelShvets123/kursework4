@@ -13,10 +13,11 @@ class Vacancy:
 От {self.salary_min} до {self.salary_max}
 {self.experience}"""
 
-    # def to_dict(self):
-    #     return {
-    #         "title": self.title,
-    #         "url": self.url,
-    #         "salary": self.salary,
-    #         "experience": self.experience
-    #     }
+    def to_dict(self):
+        return {
+            "title": self.title,
+            "url": self.url,
+            "salary_min": self.salary_min,
+            "salary_max": self.salary_max,
+            "experience": self.experience
+        }

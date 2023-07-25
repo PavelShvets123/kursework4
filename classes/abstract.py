@@ -1,7 +1,5 @@
 from abc import ABC, abstractmethod
 
-import requests
-
 from classes.vacancy import Vacancy
 
 

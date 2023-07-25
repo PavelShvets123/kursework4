@@ -1,16 +1,27 @@
 import json
 
+from classes.vacancy import Vacancy
+
 
 class JSONSaver():
-    filename = "data.json"
+    filename = "../data.json"
 
     def read_file(self):
-        with open(self.filename) as file:
-            return json.load(file)
+        with open(self.filename, encoding="utf-8") as file:
+            data = json.load(file)
+        all_vacancies = []
+        for vacancy in data:
+            name = vacancy['name']
+            url = vacancy['url']
+            salary_min = vacancy["salary_min"]
+            salary_max = vacancy["salary_max"]
+            experience = vacancy["experience"]
+            all_vacancies.append(Vacancy(name, url, salary_min, salary_max, experience))
+        return all_vacancies
 
     def write_file(self, data):
-        with open(self.filename, 'w') as file:
-            file.write(json.dumps(data))
+        with open(self.filename, 'w', encoding="utf-8") as file:
+            json.dump(data, file, ensure_ascii=False, indent=4)
 
     def add_vacancy(self, vacancy):
         data = self.read_file()

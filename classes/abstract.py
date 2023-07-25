@@ -2,7 +2,7 @@ from abc import ABC, abstractmethod
 
 import requests
 
-from vacancy import Vacancy
+from classes.vacancy import Vacancy
 
 
 class APIInteraction(ABC):

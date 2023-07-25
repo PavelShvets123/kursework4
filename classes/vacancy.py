@@ -1,9 +1,10 @@
 class Vacancy:
 
-    def __init__(self, title, url, salary, experience):
+    def __init__(self, title, url, salary_min, salary_max, experience):
         self.title = title
         self.url = url
-        self.salary = salary
+        self.salary_min = salary_min
+        self.salary = salary_max
         self.experience = experience
 
     def to_dict(self):

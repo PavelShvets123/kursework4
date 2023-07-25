@@ -1,9 +1,8 @@
-import params as params
 import requests
 
-from abstract import APIInteraction
+from classes.abstract import APIInteraction
 
-from vacancy import Vacancy
+from classes.vacancy import Vacancy
 
 
 class HeadHunterAPI(APIInteraction):
@@ -20,15 +19,22 @@ class HeadHunterAPI(APIInteraction):
 
         return self.parse(data)
 
-    def parse(self, data) -> list[Vacancy]:
+    def parse(self, data) -> list[dict]:
         vacancy_list = []
         for vacancy in data['items']:
             name = vacancy['name']
             url = vacancy['alternate_url']
+            salary_min = 0
+            salary_max = 0
             if "salary" in vacancy and vacancy["salary"]:
-                salary = f' от {vacancy["salary"]["from"]} до {vacancy["salary"]["to"]}'
-            else:
-                salary = f'Заработная плата не указана'
+                salary_min = vacancy["salary"]["from"] if vacancy["salary"]["from"] else 0
+                salary_max = vacancy["salary"]["to"] if vacancy["salary"]["to"] else 0
             experience = vacancy["snippet"]["requirement"]
-            vacancy_list.append(Vacancy(name, url, salary, experience))
+            vacancy_list.append({
+                "name": {name},
+                "url": {url},
+                "salary_min": {salary_min},
+                "salary_max": {salary_max},
+                "experience": {experience},
+            })
             return vacancy_list

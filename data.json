@@ -14,18 +14,18 @@
         "experience": "<highlighttext>Python</highlighttext> от 3.7. FastApi/Flask. Postgresql, Sqlalchemy. Docker, git. Selenium: HTML/CSS/React преимущество. Библиотеки для разработки телеграм-ботов. "
     },
     {
-        "name": "Junior Data Scientist (стажер)",
-        "url": "https://hh.ru/vacancy/83902101",
-        "salary_min": 50000,
-        "salary_max": 0,
-        "experience": "Будет плюсом: — Понимание основных концепций и методов машинного обучения. — Опыт работы с <highlighttext>Python</highlighttext> и библиотеками для анализа данных и машинного..."
-    },
-    {
         "name": "Python (Junior) разработчик",
         "url": "https://hh.ru/vacancy/83952968",
         "salary_min": 0,
         "salary_max": 0,
         "experience": "Мы готовы рассмотреть кандидатов без опыта, но с завершёнными курсами <highlighttext>python</highlighttext> разработки. Необходимые знания для нашего будущего коллеги: <highlighttext>Python</highlighttext> (минимально..."
+    },
+    {
+        "name": "Junior Data Scientist (стажер)",
+        "url": "https://hh.ru/vacancy/83902101",
+        "salary_min": 50000,
+        "salary_max": 0,
+        "experience": "Будет плюсом: — Понимание основных концепций и методов машинного обучения. — Опыт работы с <highlighttext>Python</highlighttext> и библиотеками для анализа данных и машинного..."
     },
     {
         "name": "Стажер-разработчик",
@@ -42,6 +42,13 @@
         "experience": "Законченное высшее техническое образование. Основы ООП, простейшие алгоритмы. Базовые знания Java/<highlighttext>Python</highlighttext> необходимы. Знакомство с БД MS SQL или Oracle."
     },
     {
+        "name": "QA инженер",
+        "url": "https://hh.ru/vacancy/84020515",
+        "salary_min": 0,
+        "salary_max": 0,
+        "experience": "Умение работать в системах: Битрикс24, Redmine, TMS Test IT. Базовые знания <highlighttext>Python</highlighttext>(PEP8). Базовые знания NoSQL (mongo, redis)."
+    },
+    {
         "name": "Junior Data Scientist",
         "url": "https://hh.ru/vacancy/83964034",
         "salary_min": 0,
@@ -54,13 +61,6 @@
         "salary_min": 0,
         "salary_max": 0,
         "experience": "Грамотную устную и письменную речь. Обучаемость и желание развиваться. Приветствуются навыки: SQL, <highlighttext>Python</highlighttext>, Selenium. Желание развиваться в IT. "
-    },
-    {
-        "name": "QA инженер",
-        "url": "https://hh.ru/vacancy/84020515",
-        "salary_min": 0,
-        "salary_max": 0,
-        "experience": "Умение работать в системах: Битрикс24, Redmine, TMS Test IT. Базовые знания <highlighttext>Python</highlighttext>(PEP8). Базовые знания NoSQL (mongo, redis)."
     },
     {
         "name": "Стажер в IT компанию",

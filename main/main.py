@@ -17,6 +17,7 @@ def main():
 
     js = JSONSaver()
     js.write_file(vacancies)
+    vacancies = js.read_file()
 
     while True:
 
@@ -29,10 +30,14 @@ def main():
         if command.lower() == "exit":
             break
         elif command == "1":
-            print(vacancies)
+            for vacancy in vacancies:
+                print(vacancy)
+                print("-" * 100) # Для более удобного вывода по профессиям
         elif command == "2":
             vacancies = js.sort_by_salary()
-            print(vacancies)
+            for vacancy in vacancies:
+                print(vacancy)
+                print("-" * 100)  # Для более удобного вывода по профессиям
         elif command == "3":
             user_input = input('Введите ключевое слово - ')
             for vacancy in vacancies:
